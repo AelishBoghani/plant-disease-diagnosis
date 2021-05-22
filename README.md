@@ -26,7 +26,7 @@ https://www.kaggle.com/emmarex/plantdisease
 
 ![image](https://user-images.githubusercontent.com/65387105/119216155-89654e80-baef-11eb-9558-3b928d0dc164.png)
 
-TEAM MEMBERS
+## TEAM MEMBERS
 
 Aelish Boghani
 
@@ -40,9 +40,9 @@ Sahil Monpara
 
 Muskaan Brahmbhatt
 
-ARTIFICIAL INTELLIGENCE PROJECT
+## ARTIFICIAL INTELLIGENCE PROJECT
 
-Problem Introduction
+## Problem Introduction
 
 • In this project we are using image processing to see if plant has any disease or
 
@@ -62,7 +62,7 @@ crop that is suspicious and our model will give all the details of disease and
 
 which pesticides to use to overcome this disease.
 
-Problem Descript ion
+## Problem Description
 
 • Sometimes farmers lack of knowledge lead them to use inappropriate pesticides
 
@@ -76,7 +76,7 @@ which type of possible disease so we can use proper pesticides to use to
 
 overcome that diseases.
 
-Met hodol ogy
+## Methodology
 
 • We have used DenseNet121 CNN model.
 
@@ -98,7 +98,7 @@ an input of the second layer by using composite function
 
 operation.
 
-Feat ures
+## Features
 
 • We have created web app for Prediction of Plant disease
 
@@ -110,7 +110,7 @@ pesticide.
 
 • The best thing of our model is that it gives 97%accuracy
 
-Literature survey
+## Literature survey
 
 • Ghaiwat et al. presents survey on different classification tech- niques that
 
@@ -138,4 +138,4 @@ different plant diseases and uses the combination of textures, color and
 
 features to recognize those diseases
 
-T H A N K Y O U **! !**
+## T H A N K Y O U **! !**
