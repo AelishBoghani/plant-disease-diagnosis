@@ -18,13 +18,15 @@ https://www.kaggle.com/emmarex/plantdisease
 
 ## Result
 
-![image](https://user-images.githubusercontent.com/65387105/119216116-51f6a200-baef-11eb-9fb2-50bc4ff3f726.png)
+![Plant Disease Diagnosis - Google Chrome 07-05-2021 17_58_07](https://user-images.githubusercontent.com/65387105/119216423-38565a00-baf1-11eb-9a62-6379840201c3.png)
 
-![image](https://user-images.githubusercontent.com/65387105/119216131-6b97e980-baef-11eb-9731-9f7d1d7d810e.png)
 
-![image](https://user-images.githubusercontent.com/65387105/119216142-7c485f80-baef-11eb-91bf-0c6cabee2cc4.png)
+![Plant Disease Diagnosis - Google Chrome 07-05-2021 17_58_48](https://user-images.githubusercontent.com/65387105/119216437-4ad09380-baf1-11eb-8c8f-ba2ebb648737.png)
 
-![image](https://user-images.githubusercontent.com/65387105/119216155-89654e80-baef-11eb-9558-3b928d0dc164.png)
+![Plant Disease Diagnosis - Google Chrome 07-05-2021 17_59_16](https://user-images.githubusercontent.com/65387105/119216443-5623bf00-baf1-11eb-905c-aec71b79c617.png)
+
+![Plant Disease Diagnosis - Google Chrome 07-05-2021 18_00_45](https://user-images.githubusercontent.com/65387105/119216449-6045bd80-baf1-11eb-96dc-0cf9266f3d7d.png)
+
 
 ## TEAM MEMBERS
 
