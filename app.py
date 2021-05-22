@@ -56,7 +56,7 @@ def upload():
         preds = model_predict(file_path, model)
         print(preds[0])
 
-        # x = x.reshape([64, 64]);
+       
         disease_class = ['Pepper__bell___Bacterial_spot', 'Pepper__bell___healthy', 'Potato___Early_blight',
                          'Potato___Late_blight', 'Potato___healthy', 'Tomato_Bacterial_spot', 'Tomato_Early_blight',
                          'Tomato_Late_blight', 'Tomato_Leaf_Mold', 'Tomato_Septoria_leaf_spot',
@@ -71,8 +71,6 @@ def upload():
 
 
 if __name__ == '__main__':
-    # app.run(port=5002, debug=True)
-
     # Serve the app with gevent
     http_server = WSGIServer(('', 5000), app)
     http_server.serve_forever()
