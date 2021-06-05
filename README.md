@@ -110,34 +110,7 @@ operation.
 
 pesticide.
 
-• The best thing of our model is that it gives 97%accuracy
+• The best thing of our model is that it gives 97% accuracy.
 
-## Literature survey
-
-• Ghaiwat et al. presents survey on different classification tech- niques that
-
-can be used for plant leaf disease classification. For given test example, k-
-
-nearest-neighbor method is seems to be suitable as well as simplest of all
-
-algorithms for class prediction. If training data is not linearly separable then
-
-it is difficult to determine optimal parameters in SVM, which appears as one
-
-of its drawbacks.
-
-• Kulkarni et al. presents a methodology for early and accurately plant
-
-diseases detection, using artificial neural network (ANN) and diverse image
-
-processing techniques. As the pro- posed approach is based on ANN classifier
-
-for classification and Gabor filter for feature extraction, it gives better
-
-results with a recognition rate of up to 91%. An ANN based classifier classifies
-
-different plant diseases and uses the combination of textures, color and
-
-features to recognize those diseases
 
 ## T H A N K Y O U **! !**
